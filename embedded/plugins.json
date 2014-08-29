@@ -1,0 +1,13 @@
+{
+    "version": "1",
+    "installed": {
+        "vagrant-login": {
+            "ruby_version": "0",
+            "vagrant_version": "1.6.3"
+        },
+        "vagrant-share": {
+            "ruby_version": "0",
+            "vagrant_version": "1.6.3"
+        }
+    }
+}

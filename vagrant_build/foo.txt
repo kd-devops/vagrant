@@ -1,0 +1,3 @@
+I am starting python again
+we have created a hard-link vagrant home folder for foo.txt
+this is a hard-linked file from /opt

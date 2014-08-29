@@ -1,0 +1,19 @@
+en:
+  vagrant_login:
+    check_logged_in: |-
+      You are already logged in.
+    check_not_logged_in: |-
+      You aren't logged in! Run `vagrant login` to log in.
+    command_header: |-
+      In a moment we'll ask for your username and password to Vagrant Cloud.
+      After authenticating, we will store an access token locally. Your
+      login details will be transmitted over a secure connection, and are
+      never stored on disk locally.
+
+      If you don't have a Vagrant Cloud account, sign up at vagrantcloud.com
+    invalid_login: |-
+      Invalid username or password. Please try again.
+    logged_in: |-
+      You're now logged in!
+    logged_out: |-
+      You are logged out.
